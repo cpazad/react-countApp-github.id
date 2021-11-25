@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2E4C6D;
+}
+
+.count {
+    width: 500px;
+    margin: 100px auto 0px;
+    text-align: center;
+}
+.count h1 {
+    font-size: 200px;
+}
+.btn {
+    margin: 3px;
+}
